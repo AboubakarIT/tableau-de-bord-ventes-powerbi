@@ -5,6 +5,7 @@ Tableau de bord interactif d'analyse des ventes d'un magasin, réalisé avec Pow
 
 
 ![Aperçu](apercu.png)
+<img width="748" height="344" alt="Capture d’écran 2026-10-09 235251" src="https://github.com/user-attachments/assets/48d83253-2a0e-4d8f-8fa6-cf38173d3cda" />
 
 
 
